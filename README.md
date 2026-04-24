@@ -1,6 +1,6 @@
 💫 Hi 👋, I'm jibachh yadav
 
-Passionate about AI/ML and Computer Vision
+BSc AI Student | Building ML & Computer Vision Projects
 
 Email Me 👉 ✉️ jibachh201@gmal.com For Collaboration/Project or Anything Else.
 
