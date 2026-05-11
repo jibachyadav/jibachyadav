@@ -18,12 +18,6 @@ https://www.linkedin.com/in/jibachh-yadav-np/
 - VS Code
 - Streamlit
 
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=jibachyadav&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=jibachyadav&theme=dark&hide_border=false)<br/>
